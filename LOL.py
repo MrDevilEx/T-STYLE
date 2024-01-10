@@ -16,8 +16,8 @@ print("\n")
 print("\033[92m")
 time.sleep(1)
 
-correctUsername = KING
-correctPassword = MAHADI
+correctUsername =143
+correctPassword = 143
 
 
 inuser = input("[*] Enter Username:> ")
